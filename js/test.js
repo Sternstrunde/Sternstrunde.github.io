@@ -93,7 +93,7 @@ const cunstomFn = {
       this.opts = opts || {}
       this.source = opts.source
       this.output = opts.output
-      this.delay = opts.delay || 100
+      this.delay = opts.delay || 250
       this.chain = {
         parent: null,
         dom: this.output,
