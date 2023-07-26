@@ -7,67 +7,67 @@ Pace.on('done',()=>{
         randomBanner() {
           let e = [
               {
-                img: "https://npm.elemecdn.com/randompic_nianzhu@1.0.2/bgWebp/guanlangaoshou1.webp",
+                img: "../img/guanlangaoshou1.webp",
                 author: "《灌篮高手》",
                 authorUrl: "#",
               },
               {
-                img: "https://npm.elemecdn.com/randompic_nianzhu@1.0.2/bgWebp/guanlangaoshou3.webp",
+                img: "../img/guanlangaoshou3.webp",
                 author: "《灌篮高手》",
                 authorUrl: "#",
               },
               {
-                img: "https://npm.elemecdn.com/randompic_nianzhu@1.0.2/bgWebp/shumabaobei1.webp",
+                img: "../img/shumabaobei1.webp",
                 author: "《数码宝贝》",
                 authorUrl: "#",
               },
               {
-                img: "https://npm.elemecdn.com/randompic_nianzhu@1.0.0/bgWebp/1.webp",
+                img: "../img/1.webp",
                 author: "《铃芽户缔》",
                 authorUrl: "#",
               },
               {
-                img: "https://npm.elemecdn.com/randompic_nianzhu@1.0.0/bgWebp/2.webp",
+                img: "../img/2.webp",
                 author: "《机车女孩》",
                 authorUrl: "#",
               },
               {
-                img: "https://npm.elemecdn.com/randompic_nianzhu@1.0.0/bgWebp/3.webp",
+                img: "../img/3.webp",
                 author: "『死亡搁浅』",
                 authorUrl: "#",
               },
               {
-                img: "https://npm.elemecdn.com/randompic_nianzhu@1.0.0/bgWebp/4.webp",
+                img: "../img/4.webp",
                 author: "《双城之战lol》",
                 authorUrl: "#",
               },
               {
-                img: "https://npm.elemecdn.com/randompic_nianzhu@1.0.0/bgWebp/5.webp",
+                img: "../img/5.webp",
                 author: "『魔兽世界』",
                 authorUrl: "#",
               },
               {
-                img: "https://npm.elemecdn.com/randompic_nianzhu@1.0.0/bgWebp/index2.webp",
+                img: "../img/index2.webp",
                 author: "TacoSauceNinja",
                 authorUrl: "https://www.deviantart.com/",
               },
               {
-                img: "https://pic.rmb.bdstatic.com/bjh/61f572f4aea11a75f1156334c391e0615225.jpeg",
+                img: "../img/61f572f4aea11a75f1156334c391e0615225.jpeg",
                 author: "《深海2023》",
                 authorUrl: "#",
               },
               {
-                img: "https://pic.rmb.bdstatic.com/bjh/faaede56ed111437079e13ce3eff82a53476.jpeg",
+                img: "../img/faaede56ed111437079e13ce3eff82a53476.jpeg",
                 author: "《大鱼海棠》",
                 authorUrl: "#",
               },
               {
-                img: "https://pic.rmb.bdstatic.com/bjh/b1345a39c398a565d5ded39ea8601cc46990.jpeg",
+                img: "h../img/b1345a39c398a565d5ded39ea8601cc46990.jpeg",
                 author: "FlorentLlamas",
                 authorUrl: "https://www.deviantart.com/florentllamas",
               },
               {
-                img: "https://pic.rmb.bdstatic.com/bjh/d41f61b59a85a1326d75f6d02b93d2768654.jpeg",
+                img: "../img/d41f61b59a85a1326d75f6d02b93d2768654.jpeg",
                 author: "《流浪地球》",
                 authorUrl: "#",
               },
@@ -176,3 +176,5 @@ Pace.on('done',()=>{
       typing.start()
     console.log(666666666666);
 })
+
+

@@ -606,7 +606,7 @@ body {
 
 .banner-bg-animate {
   --animation-jump-both: cubic-bezier(0.62, 0.21, 0.25, 1);
-  animation: fadeInLeft 1s both 1.9s,
+  animation: fadeInLeft 1s both 2.3s,
     post-siteBG 1.4s var(--animation-jump-both) 1 backwards,
     post-siteBG2 100s cubic-bezier(0, 0, 0, 0) 1s infinite alternate both;
 }
@@ -1302,4 +1302,28 @@ p {
 ::after,
 ::before {
   box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#nav-right{
+  flex:1 1 auto;
+  justify-content: flex-end;
+  margin-left: auto;
+  display: flex;
+  flex-wrap:nowrap;
+}
+
+#nav *::after{
+  background-color: transparent!important;
 }
