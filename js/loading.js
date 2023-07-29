@@ -1,5 +1,4 @@
-Pace.on('done',()=>{
-    console.log(4444444444444444444444);
+
     var content = document.querySelector('#body-wrap');
     content.style.display = 'flex !important';
 
@@ -174,7 +173,4 @@ Pace.on('done',()=>{
         output
       })
       typing.start()
-    console.log(666666666666);
-})
-
 

@@ -19,3 +19,8 @@
 [data-theme="dark"] #page::before{
     background-color: var(--lyx-black-acrylic2)!important;
 }
+
+
+#body-wrap{
+    background-color: black !important;
+}
