@@ -2265,7 +2265,7 @@
   }
   
   .list-group-item-action {
-    color: var(--text-color);
+    color: #4e5358;
   }
   
   .list-group-item-action:focus,

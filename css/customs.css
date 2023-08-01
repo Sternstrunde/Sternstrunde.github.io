@@ -5383,7 +5383,7 @@
   }
   .archive-list .list-group-item .list-group-item-title {
     font-size: 1rem;
-    color: var(--post-link-color);
+    color: #34a3ff;
   }
   .archive-list .list-group-item time {
     color: var(--sec-text-color);
